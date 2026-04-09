@@ -1,7 +1,6 @@
 # 🖥️ Otávio Mendes
 
 **Desenvolvedor FullStack**
-
 ---
 <img 
     align="left" 
