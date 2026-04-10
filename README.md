@@ -2,6 +2,7 @@
 
 **Desenvolvedor FullStack**
 ---
+** Linguagens💻
 <img 
     align="left" 
     alt="HTML"
