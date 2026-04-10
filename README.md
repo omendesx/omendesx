@@ -1,8 +1,9 @@
 # 🖥️ Otávio Mendes
 
 **Desenvolvedor FullStack**
+*Linguagens
 ---
-** Linguagens💻
+
 <img 
     align="left" 
     alt="HTML"
