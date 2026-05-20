@@ -1,6 +1,6 @@
 # 🖥️ Otávio Mendes
 
-**Desenvolvedor FullStack**
+**FullStack Developer**
 ---
 *Linguagens💻*
 
