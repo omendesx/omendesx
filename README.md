@@ -2,7 +2,7 @@
 
 **FullStack Developer**
 ---
-*Linguagens💻*
+*Languages💻*
 
 <img 
     align="left" 
