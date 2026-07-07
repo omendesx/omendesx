@@ -1,84 +1,65 @@
-# 🖥️ Otávio Mendes
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=💻Otávio%20Mendes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
-**FullStack Developer**
+<h2 align="center">
+  <strong>Full Stack Developer</strong>
+</h2>
+
+
+<h2 align="center">Sobre Mim</h2>
+
+<p align="center">
+  Me chamo Otávio e sou Desenvolvedor Full Stack, com foco no desenvolvimento Back-end utilizando <strong>Java</strong> e <strong>Spring Boot</strong>. Tenho interesse em criar aplicações escaláveis, seguindo boas práticas de programação e buscando aprimorar continuamente minhas habilidades por meio de projetos práticos e aprendizado constante.
+</p>
+
 ---
-*Languages:*
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<h2 align="center">Tecnologias</h2>
 
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" />
+<h3 align="center">Front-end</h3>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<h3 align="center">Back-end</h3>
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
-/>
-<br/>
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
 
-          
-          
+<h3 align="center">Frameworks</h3>
 
-<!--
-**omendesx/omendesx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">Banco de Dados</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<h3 align="center">Ferramentas</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" />
+</p>
+
+---
+
+<h2 align="center">Contato</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/otavio-mendess" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/o.mendesx_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
