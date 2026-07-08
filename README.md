@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=💻Otávio%20Mendes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Otávio%20Mendes&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38"/>
 
 <h2 align="center">
   <strong>Full Stack Developer</strong>
