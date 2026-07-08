@@ -4,8 +4,7 @@
   <strong>Full Stack Developer</strong>
 </h2>
 
-
-<h2 align="center">Sobre Mim</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   Me chamo Otávio e sou Desenvolvedor Full Stack, com foco no desenvolvimento Back-end utilizando <strong>Java</strong> e <strong>Spring Boot</strong>. Tenho interesse em criar aplicações escaláveis, seguindo boas práticas de programação e buscando aprimorar continuamente minhas habilidades por meio de projetos práticos e aprendizado constante.
@@ -13,7 +12,7 @@
 
 ---
 
-<h2 align="center">Tecnologias</h2>
+<h2 align="center">Technologies</h2>
 
 <h3 align="center">Front-end</h3>
 
@@ -33,13 +32,13 @@
   <img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
-<h3 align="center">Banco de Dados</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-<h3 align="center">Ferramentas</h3>
+<h3 align="center">Tools</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" />
@@ -47,14 +46,11 @@
 
 ---
 
-<h2 align="center">Contato</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/otavio-mendess" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/o.mendesx_/" target="_blank">
