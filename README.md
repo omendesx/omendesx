@@ -7,7 +7,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Me chamo Otávio e sou Desenvolvedor Full Stack, com foco no desenvolvimento Back-end utilizando <strong>Java</strong> e <strong>Spring Boot</strong>. Tenho interesse em criar aplicações escaláveis, seguindo boas práticas de programação e buscando aprimorar continuamente minhas habilidades por meio de projetos práticos e aprendizado constante.
+  I'm Otávio, a Full Stack Developer specializing in Back-end development with <strong>Java</strong> and <strong>Spring Boot</strong>. I enjoy designing and building scalable, high-quality applications while following clean code principles and best software development practices. I am committed to continuous learning and constantly improving my skills through real-world projects and new technologies.
 </p>
 
 ---
