@@ -17,7 +17,7 @@
 <h3 align="center">Front-end</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
 </p>
 
 <h3 align="center">Back-end</h3>
@@ -38,10 +38,16 @@
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
+<h3 align="center">Operating Systems</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,mint" />
+</p>
+
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github" />
 </p>
 
 ---
