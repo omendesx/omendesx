@@ -17,7 +17,7 @@
 <h3 align="center">Front-end</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=javascript" />
 </p>
 
 <h3 align="center">Back-end</h3>
