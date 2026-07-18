@@ -35,7 +35,7 @@
 <h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
 <h3 align="center">Operating Systems</h3>
