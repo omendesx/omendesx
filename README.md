@@ -47,7 +47,7 @@
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
 </p>
 
 ---
