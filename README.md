@@ -11,6 +11,8 @@ Otávio Mendes
   I'm Otávio, a Full Stack Developer specializing in Back-end development with <strong>Java</strong> and <strong>Spring Boot</strong>. I enjoy designing and building scalable, high-quality applications while following clean code principles and best software development practices. I am committed to continuous learning and constantly improving my skills through real-world projects and new technologies.
 </p>
 
+---
+
 <h3 align="center">Front-end</h3>
 
 <p align="center">
