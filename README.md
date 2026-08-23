@@ -22,7 +22,7 @@ Otávio Mendes
 <h3 align="center">Back-end</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://skillicons.dev/icons?i=java" />
 </p>
 
 <h3 align="center">Frameworks</h3>
