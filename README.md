@@ -46,5 +46,5 @@ Otávio Mendes
 <h3 align="center">Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman" />
 </p>
